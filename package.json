@@ -1,0 +1,13 @@
+{
+  "name": "line-keyword-bot",
+  "version": "1.0.0",
+  "description": "LINE Messaging API 關鍵字自動回覆機器人",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
+  }
+}
